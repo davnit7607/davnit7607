@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davnit7607
 - 👀 I’m interested in python and MySQL
-- 🌱 I’m currently learning 6 "A"
+- 🌱 I’m currently learning 7
 - 📫 How to reach me - davnit7607@davnitjsr.org 
 
 <!---
